@@ -51,20 +51,20 @@ body {
   background-color: #666;
 }
 
-.operator, .equals {
+#buttons .operator, #buttons .equals {
   background-color: #f0a020;
 }
 
-.operator:hover, .equals:hover {
+#buttons .operator:hover, #buttons .equals:hover {
   background-color: #ffb030;
 }
 
-.clear {
+#buttons .clear {
   background-color: #d9453d;
   grid-column: span 2;
 }
 
-.clear:hover {
+#buttons .clear:hover {
   background-color: #ea554d;
 }
 
